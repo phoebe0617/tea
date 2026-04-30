@@ -1,0 +1,6 @@
+{
+  "name": "Tea Time | 點單系統",
+  "description": "一個專業且充滿美感的茶飲點單系統。包含前台點單菜單與後台即時訂單管理，數據完全同步至 Firebase。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
